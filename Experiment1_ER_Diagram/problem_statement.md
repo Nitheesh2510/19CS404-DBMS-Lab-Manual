@@ -130,7 +130,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 
-<img width="1850" height="875" alt="image" src="https://github.com/user-attachments/assets/4c9ca114-cbdc-4414-a4c0-ecbf7870193d" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-08-03 at 2 11 39 PM" src="https://github.com/user-attachments/assets/a60a814f-8c38-42ac-b271-abf9e990b538" />
 
 
 ### Entities and Attributes
